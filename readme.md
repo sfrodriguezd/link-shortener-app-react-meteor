@@ -1,6 +1,6 @@
 # Short Lnk
 
-This is an app to shorten links
+This is a link shortener built on Meteor and React.
 
 ## Author:
 
