@@ -9,3 +9,7 @@ Sebastian Rodriguez
 ## Using:
 
 React, Meteor
+
+## Up and running
+
+https://short-link-sebastian.herokuapp.com
